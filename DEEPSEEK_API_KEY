@@ -1,0 +1,6 @@
+# DeepSeek API Configuration
+DEEPSEEK_API_KEY=sk-c6a6d09d6bef414fbc3724989a0f1728
+
+# Application Setting
+FLASK_ENV=development 
+PORT=5000
