@@ -1,5 +1,5 @@
 # DeepSeek API Configuration
-DEEPSEEK_API_KEY=sk-c6a6d09d6bef414fbc3724989a0f1728
+DEEPSEEK_API_KEY=sk-d764c7a134334d61ac32b28ef669786c
 
 # Application Setting
 FLASK_ENV=development 
